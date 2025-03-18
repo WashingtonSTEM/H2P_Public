@@ -1,0 +1,113 @@
+Region,School,Report Group,Student_Group,Count Students
+All Regions,All Schools,Race/Ethnicity, American Indian/ Alaskan Native,61
+All Regions,All Schools,Race/Ethnicity, Asian,128
+All Regions,All Schools,Race/Ethnicity, Black/ African American,41
+All Regions,All Schools,Gender, Female,1238
+All Regions,All Schools,Gender, Gender X,17
+All Regions,All Schools,Race/Ethnicity, Hispanic/ Latino of any race(s),607
+All Regions,All Schools,Gender, Male,1526
+All Regions,All Schools,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,9
+All Regions,All Schools,Race/Ethnicity, Two or More Races,207
+All Regions,All Schools,Race/Ethnicity, White,2016
+All Regions,All Schools,Grade Level,10th Grade,777
+All Regions,All Schools,Grade Level,11th Grade,731
+All Regions,All Schools,Grade Level,12th Grade,768
+All Regions,All Schools,Grade Level,9th Grade,795
+All Regions,All Schools,All,All Students,3071
+RegionA,All Schools,Race/Ethnicity, American Indian/ Alaskan Native,5
+RegionA,sch01,Race/Ethnicity, American Indian/ Alaskan Native,4
+RegionA,sch04,Race/Ethnicity, American Indian/ Alaskan Native,1
+RegionA,All Schools,Race/Ethnicity, Asian,12
+RegionA,sch01,Race/Ethnicity, Asian,2
+RegionA,sch04,Race/Ethnicity, Asian,11
+RegionA,All Schools,Race/Ethnicity, Black/ African American,4
+RegionA,sch01,Race/Ethnicity, Black/ African American,1
+RegionA,sch04,Race/Ethnicity, Black/ African American,3
+RegionA,All Schools,Gender, Female,240
+RegionA,sch01,Gender, Female,43
+RegionA,sch04,Gender, Female,197
+RegionA,All Schools,Gender, Gender X,1
+RegionA,sch01,Gender, Gender X,0
+RegionA,sch04,Gender, Gender X,1
+RegionA,All Schools,Race/Ethnicity, Hispanic/ Latino of any race(s),48
+RegionA,sch01,Race/Ethnicity, Hispanic/ Latino of any race(s),11
+RegionA,sch04,Race/Ethnicity, Hispanic/ Latino of any race(s),37
+RegionA,All Schools,Gender, Male,243
+RegionA,sch01,Gender, Male,53
+RegionA,sch04,Gender, Male,190
+RegionA,All Schools,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,2
+RegionA,sch01,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,1
+RegionA,sch04,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,1
+RegionA,All Schools,Race/Ethnicity, Two or More Races,41
+RegionA,sch01,Race/Ethnicity, Two or More Races,9
+RegionA,sch04,Race/Ethnicity, Two or More Races,32
+RegionA,All Schools,Race/Ethnicity, White,370
+RegionA,sch01,Race/Ethnicity, White,68
+RegionA,sch04,Race/Ethnicity, White,302
+RegionA,All Schools,Grade Level,10th Grade,120
+RegionA,sch01,Grade Level,10th Grade,21
+RegionA,sch04,Grade Level,10th Grade,99
+RegionA,All Schools,Grade Level,11th Grade,108
+RegionA,sch01,Grade Level,11th Grade,16
+RegionA,sch04,Grade Level,11th Grade,92
+RegionA,All Schools,Grade Level,12th Grade,122
+RegionA,sch01,Grade Level,12th Grade,25
+RegionA,sch04,Grade Level,12th Grade,97
+RegionA,All Schools,Grade Level,9th Grade,134
+RegionA,sch01,Grade Level,9th Grade,34
+RegionA,sch04,Grade Level,9th Grade,100
+RegionA,All Schools,All,All Students,484
+RegionA,sch01,All,All Students,96
+RegionA,sch04,All,All Students,388
+RegionB,All Schools,Race/Ethnicity, American Indian/ Alaskan Native,56
+RegionB,sch02,Race/Ethnicity, American Indian/ Alaskan Native,11
+RegionB,sch03,Race/Ethnicity, American Indian/ Alaskan Native,45
+RegionB,All Schools,Race/Ethnicity, Asian,116
+RegionB,sch02,Race/Ethnicity, Asian,100
+RegionB,sch03,Race/Ethnicity, Asian,16
+RegionB,All Schools,Race/Ethnicity, Black/ African American,37
+RegionB,sch02,Race/Ethnicity, Black/ African American,33
+RegionB,sch03,Race/Ethnicity, Black/ African American,4
+RegionB,All Schools,Gender, Female,1288
+RegionB,sch02,Gender, Female,998
+RegionB,sch03,Gender, Female,290
+RegionB,All Schools,Gender, Gender X,16
+RegionB,sch02,Gender, Gender X,8
+RegionB,sch03,Gender, Gender X,8
+RegionB,All Schools,Race/Ethnicity, Hispanic/ Latino of any race(s),559
+RegionB,sch02,Race/Ethnicity, Hispanic/ Latino of any race(s),448
+RegionB,sch03,Race/Ethnicity, Hispanic/ Latino of any race(s),111
+RegionB,All Schools,Gender, Male,1283
+RegionB,sch02,Gender, Male,970
+RegionB,sch03,Gender, Male,313
+RegionB,All Schools,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,7
+RegionB,sch02,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,4
+RegionB,sch03,Race/Ethnicity, Native Hawaiian/ Other Pacific Islander,3
+RegionB,All Schools,Race/Ethnicity, Two or More Races,166
+RegionB,sch02,Race/Ethnicity, Two or More Races,107
+RegionB,sch03,Race/Ethnicity, Two or More Races,59
+RegionB,All Schools,Race/Ethnicity, White,1646
+RegionB,sch02,Race/Ethnicity, White,1273
+RegionB,sch03,Race/Ethnicity, White,373
+RegionB,All Schools,Grade Level,10th Grade,657
+RegionB,sch02,Grade Level,10th Grade,507
+RegionB,sch03,Grade Level,10th Grade,150
+RegionB,All Schools,Grade Level,11th Grade,623
+RegionB,sch02,Grade Level,11th Grade,463
+RegionB,sch03,Grade Level,11th Grade,160
+RegionB,All Schools,Grade Level,12th Grade,646
+RegionB,sch02,Grade Level,12th Grade,498
+RegionB,sch03,Grade Level,12th Grade,148
+RegionB,All Schools,Grade Level,9th Grade,661
+RegionB,sch02,Grade Level,9th Grade,508
+RegionB,sch03,Grade Level,9th Grade,153
+RegionB,All Schools,All,All Students,2587
+RegionB,sch02,All,All Students,1976
+RegionB,sch03,All,All Students,611
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -19,9 +19,9 @@ about, talk about, and experience postsecondary preparation and support at schoo
 and expertise, working together to identify impactful school-level changes.
 * Change School Culture
 
-These resources should be used to analzye strengths and weaknesses of the school system, not individual students, families, or staff. 
+These resources should be used to analyze strengths and weaknesses of the school system, not individual students, families, or staff. 
 
-Washington STEM's Highschool to Postsecondary Collaborative (H2PC) Survey Analysis Templates © 2025 is
+Washington STEM's High School to Postsecondary Collaborative (H2PC) Survey Analysis Templates © 2025 is
 licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-nc/4.0/
 ### Suggested Citation: 

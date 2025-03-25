@@ -1,4 +1,8 @@
-# Washington STEM's Highschool to Postsecondary Collaborative (H2PC)
+# Washington STEM's High School to Postsecondary Collaborative (H2PC)
+Today, only 50% of high school graduates in Washington enroll in higher education; however upwards of 80% of well-paying jobs in the state require some sort of postsecondary credential. This means many students, most often students of color and low-income students, will not have access to family-sustaining jobs and secure careers. 
+
+Since it's inception in 2019 as a collboration with Eisenhower High School (EHS) in Yakima, WA, the High School to Postsecondary Collaborative has grown into a successful partnership led by Washington STEM and nine regional and district leads across 40+ schools across Washington state, focused on improving postsecondary preparation and transitions. When high schools join the High School to Postsecondary Collaborative, they learn how to check assumptions against course-taking data, collect surveys, host listen sessions with families, and receive professional development so more staff are equipped to advise students on dual credit options.
+
 ## Survey Analysis Templates
 ### Last updated 3/21/2025. Scripts originally created by Brian Chu (@ScholarFund) and adapted by Rachel Tavolacci (@WashingtonSTEM).
 ### Code of Conduct: 

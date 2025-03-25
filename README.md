@@ -32,9 +32,13 @@ https://github.com/WashingtonSTEM/H2P_Public
 
 ### Folders:
 Surveys: Contains survey questions for students (in English and Spanish) and staff (in English).
+
 Scripts: Contains all scripts needed to process survey responses for dashboard analysis.
+
 Packaged Workbooks: Contains Tableau student and staff dashboards as .twb (to connect to your own data) and .twbx (contains sample data). 
+
 H2P Template Data/data/1_raw: Contains all raw and processed sample data needed to run scripts.
+
 2_output: Contains all sample data outputs from scripts and to connect to workbooks.
 
 General overview:

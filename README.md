@@ -29,6 +29,15 @@ Washington STEM. (March 2025). High School to Postsecondary Collaborative: Surve
 https://github.com/WashingtonSTEM/H2P_Public
 
 #### Read H2P Data Pipeline Documentation_Public for more details. Each script contains instructions. For all scripts, you will need to set the base directory to match the folders you want to read and write to.
+
+### Folders:
+Surveys: Contains survey questions for students (in English and Spanish) and staff (in English).
+Scripts: Contains all scripts needed to process survey responses for dashboard analysis.
+Packaged Workbooks: Contains Tableau student and staff dashboards as .twb (to connect to your own data) and .twbx (contains sample data). 
+H2P Template Data/data/1_raw: Contains all raw and processed sample data needed to run scripts.
+2_output: Contains all sample data outputs from scripts and to connect to workbooks.
+
+General overview:
 1. Conduct the student and staff surveys. Replace the sample datasets in 1_raw folder with your raw data (formatting of raw data must match sample data format).
 2. Run the process scripts first.
 3. Run the student dashboard script.

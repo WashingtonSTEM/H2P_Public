@@ -4,7 +4,7 @@ Today, only 40% of high school graduates in Washington enroll in higher educatio
 Since it's inception in 2019 as a collboration with Eisenhower High School (EHS) in Yakima, WA, the High School to Postsecondary Collaborative has grown into a successful partnership led by Washington STEM and nine regional and district leads across 40+ schools across Washington state, focused on improving postsecondary preparation and transitions. When high schools join the High School to Postsecondary Collaborative, they learn how to check assumptions against course-taking data, collect surveys, host listen sessions with families, and receive professional development so more staff are equipped to advise students on dual credit options.
 
 ## Survey Analysis Templates
-### Last updated 3/21/2025. Scripts originally created by Brian Chu (@ScholarFund) and adapted by Rachel Tavolacci (@WashingtonSTEM).
+### Last updated 5/1/2025. Scripts originally created by Brian Chu (@ScholarFund) and adapted by Rachel Tavolacci (@WashingtonSTEM).
 ### Code of Conduct: 
 These templates are designed to help educators, especially high school and district staff, improve equitable
 postsecondary readiness by better understanding patterns between high school experiences and
@@ -35,19 +35,21 @@ Surveys: Contains survey questions for students (in English and Spanish) and sta
 
 Scripts: Contains all scripts needed to process survey responses for dashboard & qualitative analysis.
 
-Packaged Workbooks: Contains Tableau student and staff dashboards as .twb (to connect to your own data) and .twbx (contains sample data). 
+Packaged Workbooks: Contains Tableau student and staff dashboards (contains sample data). 
 
 H2P Template Data/data/1_raw: Contains all raw and processed sample data needed to run scripts.
 
 2_output: Contains all sample data outputs from scripts and to connect to workbooks.
 
 General overview:
-1. Conduct the student and staff surveys. Replace the sample datasets in 1_raw folder with your raw data (formatting of raw data must match sample data format).
-2. Run the process scripts first.
-3. Run the student dashboard script.
-4. Run the staff dashboard script.
-5. Open the dashboards and reconnect to the newly written files in the dashboard_files_finalized folder.
-6. Run the qualitative file script to produce individual files for each school (redact responses as needed before sharing).
+1. Conduct the student and staff surveys.
+2. If applicable, at your desired cadence the survey_completion_rates_PUBLIC.R script can be used to extract completion rates from QuestionPro. Connect the script output to the H2P Survey Completion dashboard.
+3. Once the survey administration window has closed, replace the sample datasets in 1_raw folder with your raw data (formatting of raw data must match sample data format).
+4. Run the process scripts first.
+5. Run the student dashboard script.
+6. Run the staff dashboard script.
+7. Open the dashboards and reconnect to the newly written files in the dashboard_files_finalized folder.
+8. Run the qualitative file script to produce individual files for each school (redact responses as needed before sharing).
 
 # Learn more:
 

@@ -1,0 +1,79 @@
+survey_name,survey_id,stuID,schoolID,grade,responseStatus,completion_count
+StudentSurvey_Spanish,12389041,146179219,sch01,10th grade,Completed,1
+StudentSurvey_Spanish,12389041,146179091,sch01,9th grade,Completed,1
+StudentSurvey_Spanish,12389041,146179044,sch01,11th grade,Completed,1
+StudentSurvey_Spanish,12389041,146179033,sch01,10th grade,Completed,1
+StaffSurvey,12388974,146179021,sch01,,Completed,1
+StaffSurvey,12388974,146178873,sch01,,Completed,1
+StaffSurvey,12388974,146178856,sch01,,Completed,1
+StaffSurvey,12388974,146178824,sch01,,Completed,1
+StudentSurvey_English,12389041,146178770,sch01,11th grade,Completed,1
+StudentSurvey_English,12389041,146178765,sch01,11th grade,Completed,1
+StudentSurvey_English,12389041,146178751,sch01,10th grade,Completed,1
+StudentSurvey_English,12389041,146178727,sch01,11th grade,Completed,1
+StudentSurvey_English,12389041,146178724,sch01,12th grade,Completed,1
+StudentSurvey_English,12389041,146178622,sch01,12th grade,Completed,1
+StudentSurvey_English,12389041,146178610,sch01,11th grade,Completed,1
+StudentSurvey_English,12389041,146178601,sch01,10th grade,Completed,1
+StudentSurvey_English,12389041,146178598,sch01,12th grade,Completed,1
+StudentSurvey_English,12389041,146178582,sch01,12th grade,Completed,1
+StudentSurvey_English,12389041,146178573,sch01,12th grade,Completed,1
+StudentSurvey_English,12389041,146178493,sch01,9th grade,Completed,1
+StudentSurvey_English,12389041,146178469,sch01,10th grade,Completed,1
+StudentSurvey_English,12389041,146178453,sch02,12th grade,Completed,1
+StudentSurvey_English,12389041,146178382,sch02,9th grade,Completed,1
+StudentSurvey_English,12389041,146178347,sch02,11th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178342,sch02,10th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178273,sch02,12th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178011,sch02,9th grade,Completed,1
+StudentSurvey_English,12389041,146176043,sch02,12th grade,Completed,1
+StudentSurvey_English,12389041,145779508,sch02,10th grade,Completed,1
+StudentSurvey_English,12389041,145777153,sch02,12th grade,Completed,1
+StudentSurvey_English,12389041,145622717,sch02,11th grade,Completed,1
+StudentSurvey_English,12389041,145571971,sch02,9th grade,Completed,1
+StaffSurvey,12388974,145570436,sch02,,Completed,1
+StudentSurvey_English,12389041,145570336,sch02,10th grade,Completed,1
+StudentSurvey_English,12389041,145570289,sch02,12th grade,Completed,1
+StudentSurvey_English,12389041,145570178,sch02,11th grade,Completed,1
+StudentSurvey_English,12389041,145570165,sch02,9th grade,Completed,1
+StudentSurvey_English,12389041,145570121,sch02,11th grade,Completed,1
+StudentSurvey_English,12389041,145570039,sch02,11th grade,Completed,1
+StudentSurvey_English,12389041,145570007,sch02,9th grade,Completed,1
+StudentSurvey_Spanish,12389041,145569920,sch03,11th grade,Completed,1
+StaffSurvey,12388974,145569906,sch03,,Completed,1
+StaffSurvey,12388974,145569783,sch03,,Completed,1
+StudentSurvey_Spanish,12389041,145569553,sch03,9th grade,Completed,1
+StudentSurvey_Spanish,12389041,145569509,sch03,12th grade,Completed,1
+StudentSurvey_English,12389041,145569456,sch03,12th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178342,sch04,10th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178273,sch04,12th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178011,sch04,9th grade,Completed,1
+StudentSurvey_English,12389041,146176043,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145779508,sch04,10th grade,Completed,1
+StudentSurvey_English,12389041,145777153,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145622717,sch04,11th grade,Completed,1
+StudentSurvey_English,12389041,145571971,sch04,9th grade,Completed,1
+StaffSurvey,12388974,145570436,sch04,,Completed,1
+StudentSurvey_English,12389041,145570336,sch04,10th grade,Completed,1
+StudentSurvey_English,12389041,145570289,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145570178,sch04,11th grade,Completed,1
+StudentSurvey_English,12389041,145570165,sch04,9th grade,Completed,1
+StudentSurvey_English,12389041,145570121,sch04,11th grade,Completed,1
+StudentSurvey_English,12389041,145570039,sch04,11th grade,Completed,1
+StudentSurvey_English,12389041,145570007,sch04,9th grade,Completed,1
+StudentSurvey_Spanish,12389041,145569920,sch04,11th grade,Completed,1
+StaffSurvey,12388974,145569906,sch04,,Completed,1
+StaffSurvey,12388974,145569783,sch04,,Completed,1
+StudentSurvey_Spanish,12389041,145569553,sch04,9th grade,Completed,1
+StudentSurvey_Spanish,12389041,145569509,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145569456,sch04,12th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178342,sch04,10th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178273,sch04,12th grade,Completed,1
+StudentSurvey_Spanish,12389041,146178011,sch04,9th grade,Completed,1
+StudentSurvey_English,12389041,146176043,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145779508,sch04,10th grade,Completed,1
+StudentSurvey_English,12389041,145777153,sch04,12th grade,Completed,1
+StudentSurvey_English,12389041,145622717,sch04,11th grade,Completed,1
+StudentSurvey_English,12389041,145571971,sch04,9th grade,Completed,1
+StaffSurvey,12388974,145570436,sch04,,Completed,1
+StudentSurvey_English,12389041,145570336,sch04,10th grade,Completed,1

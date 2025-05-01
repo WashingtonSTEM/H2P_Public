@@ -33,7 +33,7 @@ https://github.com/WashingtonSTEM/H2P_Public
 ### Folders:
 Surveys: Contains survey questions for students (in English and Spanish) and staff (in English).
 
-Scripts: Contains all scripts needed to process survey responses for dashboard analysis.
+Scripts: Contains all scripts needed to process survey responses for dashboard & qualitative analysis.
 
 Packaged Workbooks: Contains Tableau student and staff dashboards as .twb (to connect to your own data) and .twbx (contains sample data). 
 
@@ -47,6 +47,7 @@ General overview:
 3. Run the student dashboard script.
 4. Run the staff dashboard script.
 5. Open the dashboards and reconnect to the newly written files in the dashboard_files_finalized folder.
+6. Run the qualitative file script to produce individual files for each school (redact responses as needed before sharing).
 
 # Learn more:
 
